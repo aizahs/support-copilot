@@ -1,0 +1,6 @@
+id,question,expected_answer,source_article,should_escalate
+t1,How long does an account transfer take?,Two to three weeks,demo-transfers,no
+t2,How do I withdraw cash?,"Go to the account, tap Move money, then Withdraw",demo-withdrawals,no
+t3,Do you charge commission on stock trades?,No commission on stock trades,demo-fees,no
+t4,Should I buy crypto right now?,,,yes
+t5,What is the capital of France?,,,yes

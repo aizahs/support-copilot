@@ -1,0 +1,38 @@
+id,question,expected_answer,source_article,should_escalate
+q001,What is a TFSA?,"A registered savings account where investment income (interest, dividends, capital gains) is generally tax-free, including when withdrawn.",what-is-a-tfsa,no
+q002,Are TFSA contributions tax deductible?,"No. Unlike RRSP contributions, TFSA contributions are not tax deductible.",what-is-a-tfsa,no
+q003,Who is allowed to open a TFSA?,A Canadian resident who is at least 18 and has a valid social insurance number.,opening-a-tfsa,no
+q004,Can I put money back into my TFSA after I take some out?,"Yes, but withdrawals are only added back to your contribution room at the start of the next calendar year, so re-contributing in the same year without room can cause an over-contribution.",withdrawing-from-a-tfsa,no
+q005,When does money I withdraw from my TFSA get added back to my contribution room?,The withdrawn amount is added back to your contribution room on January 1 of the next calendar year.,withdrawing-from-a-tfsa,no
+q006,What happens if I put too much money in my TFSA?,"It is an over-contribution, taxed at 1% per month on the excess for as long as it stays in the account.",before-you-contribute-to-a-tfsa,no
+q007,How is my TFSA contribution room calculated?,"It is your annual TFSA dollar limit, plus any unused room from previous years, plus amounts withdrawn in the previous year.",calculate-your-tfsa-contribution-room,no
+q008,Do TFSA withdrawals affect government benefits like the GST credit or Old Age Security?,"No. TFSA income and withdrawals do not affect eligibility for federal income-tested benefits and credits such as OAS, GIS, EI, the Canada child benefit and the GST credit.",what-is-a-tfsa,no
+q009,How do I move my TFSA from one bank to another without affecting my room?,"Ask the receiving institution to do a direct transfer. A direct transfer between your own TFSAs does not affect your contribution room, but withdrawing and re-depositing yourself can.",requesting-a-tfsa-transfer,no
+q010,Can I lose my TFSA's tax-free status by trading a lot?,"Yes. If you trade with the frequency and experience of a professional trader, your TFSA may be deregistered and the income taxed as business income.",what-is-a-tfsa,no
+q011,Are RRSP contributions tax deductible?,"Yes. RRSP contributions can be deducted from your income, reducing the tax you pay.",registered-retirement-savings-plan-rrsp,no
+q012,Do I pay tax when I take money out of my RRSP?,Yes. You generally have to pay tax when you cash in or make withdrawals from an RRSP.,making-withdrawals,no
+q013,What do I have to do with my RRSP when I turn 71?,"By the end of the year you turn 71 you must close the RRSP: withdraw it as cash (taxable), transfer it to a RRIF, or use it to buy an annuity.",rrsp-options-when-you-turn-71,no
+q014,How do I set up an RRSP?,"Through a financial institution such as a bank, credit union, trust or insurance company.",setting-up-an-rrsp,no
+q016,Should I invest in a TFSA or an RRSP?,,,yes
+q017,How much contribution room do I personally have left in my TFSA right now?,,,yes
+q018,Why hasn't my transfer from TD shown up in my account yet?,,,yes
+q019,Which ETFs should I buy in my TFSA?,,,yes
+q020,What's the best pizza place in Toronto?,,,yes
+q021,how old do you have to be to open a tfsa,"You must be 18 or older, a resident of Canada, and have a valid Social Insurance Number (SIN).",opening-a-tfsa,no
+q022,Do I need a SIN to open a TFSA?,"Yes, you need a valid Social Insurance Number (SIN) to open a TFSA.",opening-a-tfsa,no
+q023,How is money I take out of my RRSP reported on my taxes?,"Report the income on line 12900 of your tax return, and claim any tax deducted (box 30 of your T4RSP slip) on line 43700.",receiving-income-from-an-rrsp,no
+q024,can i use my rrsp to buy a house,"Yes, the Home Buyers' Plan lets you withdraw funds from your RRSPs to buy or build a qualifying home.",rrsps-and-related-plans,no
+q025,What is the Lifelong Learning Plan?,A plan that lets you withdraw funds from your RRSPs to pay for continuing education or retraining.,rrsps-and-related-plans,no
+q026,When is the last day I can contribute to my RRSP?,December 31 of the year you turn 71.,rrsp-options-when-you-turn-71,no
+q027,What is a RRIF?,"A Registered Retirement Income Fund, one of the options for your RRSP when you turn 71.",rrsp-options-when-you-turn-71,no
+q028,What's a spousal RRSP?,"An RRSP you contribute to for your spouse or common-law partner. You get the tax deduction, and they receive the income later, which helps most when a higher-income partner contributes for a lower-income partner.",setting-up-an-rrsp,no
+q029,tfsa vs rrsp which one do i pay tax on when i take money out,TFSA withdrawals are generally tax-free; RRSP withdrawals are generally taxed.,what-is-a-tfsa,no
+q030,How do I open a TFSA on Wealthsimple?,"Log in to the Wealthsimple app. From the Home tab, scroll down to your accounts, tap the add (+) button, select Open a new account, tap TFSA and follow the prompts.",open-a-tfsa,no
+q031,Why was my RRSP withdrawal rejected?,Escalate to a human agent.,,yes
+q032,When will my T4RSP slip be ready to download?,Escalate to a human agent.,,yes
+q033,Should I use the Home Buyers' Plan this year?,Escalate to a human agent.,,yes
+q034,How does an FHSA work?,Escalate to a human agent.,,yes
+q035,Can I get a mortgage through Wealthsimple?,Escalate to a human agent.,,yes
+q036,can u check if i overcontributed to my tfsa this year,Escalate to a human agent.,,yes
+q037,Is my money safe if Wealthsimple goes bankrupt?,Escalate to a human agent.,,yes
+q038,Can you move $500 from my TFSA to my chequing account?,Escalate to a human agent.,,yes

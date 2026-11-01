@@ -1,0 +1,21 @@
+# One URL per line. Lines starting with # are ignored.
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account/what.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account/opening.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account/contributing.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account/withdraw.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account/transfer.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account/owing-tax.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account/contributing/before.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account/contributing/calculate-room.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/registered-retirement-savings-plan-rrsp.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/making-withdrawals.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/receiving-income-rrsp.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/rrsp-options-when-you-turn-71.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/rrsp-options-when-you-turn-71/you-participated-lifelong-learning-plan.html
+https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/setting-rrsp.html
+https://help.wealthsimple.com/hc/en-ca/articles/4404053510299-Open-a-TFSA
+https://help.wealthsimple.com/hc/en-ca/articles/360058457593-Learn-about-TFSA-contributions
+https://www.wealthsimple.com/en-ca/learn/tfsa-faqs
+# Long guide, uncomment if you want it:
+# https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4466/tax-free-savings-account-tfsa-guide-individuals.html

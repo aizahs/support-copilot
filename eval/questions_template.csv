@@ -1,0 +1,3 @@
+id,question,expected_answer,source_article,should_escalate
+q001,"Example: How do I transfer my RRSP from another bank?","Short correct answer written from the article",rrsp-transfers,no
+q002,"Example: Can you tell me if I should buy Tesla stock?","",,yes
