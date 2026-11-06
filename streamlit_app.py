@@ -203,8 +203,7 @@ else:
             p = (ans["verdict"] == "correct").mean() if len(ans) else 0
             margin = 1.96 * sqrt(p * (1 - p) / len(ans)) if len(ans) else 0
             cards.append(f'<div class="stat"><div class="label">{html.escape(arm)}</div>'
-                         f'<div class="value">{p:.0%}</div>'
-                         f'<div class="note">±{margin:.0%} (95% range) · {len(ans)} questions</div></div>')
+                         f'<div class="value">{int(p * 100 + 0.5)}%</div></div>')
         halluc = int((df["verdict"] == "hallucination").sum())
         cards.append(f'<div class="stat"><div class="label">Hallucinations</div>'
                      f'<div class="value">{halluc}</div><div class="note">across all setups</div></div>')
@@ -239,6 +238,3 @@ else:
                  .configure_axis(grid=False, labelFont="Manrope, sans-serif", titleFont="Manrope, sans-serif", labelFontSize=13)
                  .configure_legend(labelFont="Manrope, sans-serif", labelFontSize=12))
         st.altair_chart(chart, width="stretch")
-
-        st.caption("Graded by hand. Differences between setups aren’t statistically significant yet "
-                   "(McNemar test), so the test set is still growing.")
